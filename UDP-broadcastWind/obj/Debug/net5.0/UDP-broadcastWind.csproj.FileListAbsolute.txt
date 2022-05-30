@@ -1,0 +1,16 @@
+C:\Users\kevin\source\repos\UDP-broadcastWind\obj\Debug\net5.0\UDP-broadcastWind.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\UDP-broadcastWind\obj\Debug\net5.0\UDP-broadcastWind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\UDP-broadcastWind\obj\Debug\net5.0\UDP-broadcastWind.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\UDP-broadcastWind\obj\Debug\net5.0\UDP-broadcastWind.AssemblyInfo.cs
+C:\Users\kevin\source\repos\UDP-broadcastWind\obj\Debug\net5.0\UDP-broadcastWind.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\UDP-broadcastWind\bin\Debug\net5.0\UDP-broadcastWind.exe
+C:\Users\kevin\source\repos\UDP-broadcastWind\bin\Debug\net5.0\UDP-broadcastWind.deps.json
+C:\Users\kevin\source\repos\UDP-broadcastWind\bin\Debug\net5.0\UDP-broadcastWind.runtimeconfig.json
+C:\Users\kevin\source\repos\UDP-broadcastWind\bin\Debug\net5.0\UDP-broadcastWind.runtimeconfig.dev.json
+C:\Users\kevin\source\repos\UDP-broadcastWind\bin\Debug\net5.0\UDP-broadcastWind.dll
+C:\Users\kevin\source\repos\UDP-broadcastWind\bin\Debug\net5.0\UDP-broadcastWind.pdb
+C:\Users\kevin\source\repos\UDP-broadcastWind\obj\Debug\net5.0\UDP-broadcastWind.dll
+C:\Users\kevin\source\repos\UDP-broadcastWind\obj\Debug\net5.0\refint\UDP-broadcastWind.dll
+C:\Users\kevin\source\repos\UDP-broadcastWind\obj\Debug\net5.0\UDP-broadcastWind.pdb
+C:\Users\kevin\source\repos\UDP-broadcastWind\obj\Debug\net5.0\UDP-broadcastWind.genruntimeconfig.cache
+C:\Users\kevin\source\repos\UDP-broadcastWind\obj\Debug\net5.0\ref\UDP-broadcastWind.dll
